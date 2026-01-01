@@ -1,0 +1,8 @@
+setuptools
+earthengine-api
+streamlit
+geemap
+google-auth
+numpy
+pandas
+scikit-learn
